@@ -11,3 +11,4 @@ thumbnails.forEach(thumbnail => {
     mainImage.src = 'https://picsum.photos/id/' + thumbnail.dataset.id + '/600/400';
   });
 });
+
